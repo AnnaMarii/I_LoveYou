@@ -1,0 +1,27 @@
+body {
+  background: #ffcfed;
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+  margin: auto;
+}
+
+.outside {
+  width: 1000px;
+  background: rgb(165, 241, 241);
+  margin: auto;
+  margin-top: 10px;
+}
+
+.outside-title {
+  margin-top: 5px;
+  margin-left: 300px;
+}
+
+.img {
+  margin-left: 430px;
+}
+
+.happy {
+  margin-left: 40px;
+  margin-right: 10px;
+}
